@@ -1,0 +1,140 @@
+body {
+    background-color: #f5f5f5;
+    color: #212529;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    text-align: left;
+}
+#ul{
+    text-decoration: none;
+    list-style: none;
+    color: #212529;
+    font-weight: lighter;
+}
+ul{
+    font-weight:bold;
+    color:rgb(136, 136, 136);
+    margin: auto;
+}
+.li{
+    display: inline-block;
+    padding: 15px;
+}
+.header {
+    background-image: url(img/poubelles-tunisie.jpg) ; 
+    color: #fff;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+.anawan{
+    font-size:larger ;
+    font-weight: bolder;
+}
+p{
+    margin: 20px;
+}
+.ul{
+    text-align: left;
+}
+.ul li{
+    font-size: large;
+}
+.h1{
+    font-family: 'Lato', sans-serif;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+.topics li a{
+    color: rgb(5, 5, 5);
+    text-decoration: none;
+    text-decoration: none;
+    font-size: larger;
+}
+.topics li a:hover{
+    color: rgb(17, 0, 255);
+}
+.topics{
+    margin: 20px;
+    padding: 0px;
+}
+.topics li {
+    display: inline-block;
+    text-align: center;
+    list-style: none;
+    padding-right: 20px;
+    margin-bottom: 50;
+}
+.ktiba{
+    font-size: larger;
+}
+/* images */
+.image1{
+    width: 27%;
+    padding-left: 20px;
+    margin: 20px;
+    float: right;
+}
+.image2{
+    width: 30%;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+}
+.image3{
+    width: 30%;
+    padding-left: 20px;
+    margin: 20px;
+    float: left;
+}
+.image4{
+    width: 28%;
+    padding-left: 20px;
+    margin: 20px;
+    float: right;
+}
+/* tableau Variation temporelle de la composition des déchets ménagers en Tunisie */
+.table{
+    border-spacing: 0px;
+    margin: auto;
+}
+.tr{
+    width: 140px;
+    height: 35px;
+    text-align: center;
+}
+.tr th{
+    background-color: rgb(136, 136, 136);
+    width: 140px;
+    height: 35px;
+}
+caption{
+    font-weight: bolder;
+}
+/* footer */
+footer{
+    background-color: rgb(32, 32, 32);
+}
+footer p{
+    color: white;
+}
+video{
+    width: 15%;
+    margin-left: 20px;
+}
+audio{
+    margin: 20px;
+}
+article{
+    padding: 10px;
+}
+.videos{
+    background-color: rgb(240, 240, 240);
+    padding: 30px;
+}
+.videos video{
+    padding: 10px;
+    width: 30%;
+}
